@@ -1,0 +1,12 @@
+.child-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.child-full-width.input {
+  max-width:100px;
+}
+
+.child-full-width.textarea {
+  max-width:300px;
+}
